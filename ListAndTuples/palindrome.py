@@ -1,0 +1,18 @@
+list1 = [1, 2, 3, 4]
+list2 = [1, 2, 3, 2, 1]
+
+copy_list1 = list1.copy()
+copy_list1.reverse()
+
+if(copy_list1 == list1):
+    print("Palindrome")
+else:
+    print("Not Palidrome")
+
+copy_list2 = list2.copy()
+copy_list2.reverse()
+
+if(copy_list2 == list2):
+    print("Palindrome")
+else:
+    print("Not Palidrome")
