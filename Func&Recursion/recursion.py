@@ -1,3 +1,7 @@
-def fact(num):
-    print(fact(fact * num))
-fact(4)
+# recursive function
+def show(n):
+    if (n == 0):
+        return
+    print(n)
+    show(n-1)
+show(5)
