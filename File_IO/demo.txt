@@ -1,1 +1,4 @@
-I am Divesh Giri. I am learning python
+I am Divesh Giri.
+I am learning python
+Then I will start dJango
+Then I will start dJango
